@@ -1,0 +1,29 @@
+# Entorno virtual
+venv/
+env/
+
+# Credenciales - NUNCA subir este archivo
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Datos e índices generados
+data/indice/*
+!data/indice/.gitkeep
+data/documentos/*
+!data/documentos/.gitkeep
+
+# Modelos descargados por sentence-transformers
+.cache/
+
+# Editores
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini

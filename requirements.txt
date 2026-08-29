@@ -1,0 +1,19 @@
+# Extracción de documentos
+PyMuPDF>=1.24.0
+python-docx>=1.1.0
+
+# Embeddings e indexación vectorial
+sentence-transformers>=3.0.0
+faiss-cpu>=1.9.0
+numpy>=1.26.0
+
+# Modelo de lenguaje
+openai>=1.40.0
+
+# Interfaz
+streamlit>=1.38.0
+
+# Utilidades
+python-dotenv>=1.0.0
+pandas>=2.2.0
+tqdm>=4.66.0
