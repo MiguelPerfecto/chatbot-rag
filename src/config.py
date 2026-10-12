@@ -86,7 +86,7 @@ TOP_K = 5
 # relevante. Si ningún fragmento supera este umbral, el sistema responde que
 # no encontró evidencia en los documentos en lugar de inventar una respuesta.
 # El valor definitivo se determina experimentalmente (sección 5.4.3).
-UMBRAL_RELEVANCIA = 0.35
+UMBRAL_RELEVANCIA = 0.45
 
 
 # ---------------------------------------------------------------------------
