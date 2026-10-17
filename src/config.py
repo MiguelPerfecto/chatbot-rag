@@ -51,8 +51,8 @@ TAMANO_MAXIMO_MB = 50
 #   (800, 150)  configuración base
 #   (1200, 200) fragmentos largos, más contexto, mayor ruido y costo
 
-TAMANO_FRAGMENTO = 800      # caracteres por fragmento
-SOLAPAMIENTO = 150          # caracteres compartidos entre fragmentos vecinos
+TAMANO_FRAGMENTO = 800     # caracteres por fragmento
+SOLAPAMIENTO = 150         # caracteres compartidos entre fragmentos vecinos
 
 # Un fragmento con menos caracteres que esto se descarta (encabezados sueltos,
 # números de página, líneas residuales de la extracción).
